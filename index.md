@@ -1,5 +1,4 @@
 ## My project
-
 ![alt text](assets/media/2PlayersInAGame.gif)
 
 This is an eight-week school project where we could choose our own research topic related to game technologies. I chose to focus on networking, starting from a custom engine provided by school that does not have any networking built in.
