@@ -262,5 +262,6 @@ In the future, I would add better packet loss handling by sending multiple recen
 ## sources
 [1]B. Hall, “Beej’s Guide to Network Programming,” beej.us. [Online]. Available: https://beej.us/guide/bgnet/html/split/intro.tml#audience. 
 Accessed: Nov. 29, 2025.
+
 [2] GDC Vault, “Overwatch: Gameplay Architecture and Netcode,” Game Developers Conference. [Online]. Available: https://www.gdcvault.com/play/1024001/-Overwatch-Gameplay-Architecture-and
 . Accessed: Nov. 29, 2025.
