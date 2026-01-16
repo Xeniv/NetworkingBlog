@@ -1,7 +1,3 @@
----
-layout: default
----
-
 ## My project
 
 ![alt text](assets/media/2PlayersInAGame.gif)
