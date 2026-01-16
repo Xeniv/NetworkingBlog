@@ -4,7 +4,7 @@ layout: default
 
 ## My project
 
-
+![alt text](assets/media/2PlayersInAGame.gif)
 
 This is an eight-week school project where we could choose our own research topic related to game technologies. I chose to focus on networking, starting from a custom engine provided by school that does not have any networking built in.
 
@@ -66,6 +66,8 @@ int main()
     std::cin.get();
 }
  ```
+
+![alt text](assets/media/netshare.png)
 
 #### Server
 On the server, networking is handled in a simple loop. The server polls for new packets, and each packet type can be handled in a switch statement. This makes it easy to add custom behavior per message.

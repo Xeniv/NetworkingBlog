@@ -1,0 +1,9 @@
+theme: jekyll-theme-cayman
+collections:
+  ilos:
+    output: true
+title: "⛰️ 2025-2026 Y2B PR - Learning Log"
+description: Learning Log
+student:
+  name: Your Name
+  number: "000000"
